@@ -1,5 +1,5 @@
-import "./css/style.css";
+require("./css/style.css");
 
-import "./js/app";
+require("./js/app");
 
 // TODO: write your code in app.js
